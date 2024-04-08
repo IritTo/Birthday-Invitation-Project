@@ -1,6 +1,6 @@
 body {
   background-color: MistyRose;
-  font-family: "Arial", Tahoma, sans-serif; /* Added sans-serif as a fallback */
+  font-family: "Arial", Tahoma, sans-serif;
   color: black;
   text-align: center;
   padding: 20px;
@@ -20,14 +20,14 @@ hr {
   height: auto;
   display: block;
   margin: 20px auto;
-} /* Added the missing bracket */
+}
 
 ul {
   text-align: left;
   display: inline-block;
   margin: 0 auto;
   padding-left: 0;
-} /* Correctly closed the ul block */
+}
 
 ul li {
   list-style-type: none;
@@ -37,7 +37,7 @@ ul li {
   background-size: 10px 10px;
   padding-left: 20px;
   margin-bottom: 10px;
-} /* Correctly closed the ul li block */
+}
 
 a {
   color: darkorange;
