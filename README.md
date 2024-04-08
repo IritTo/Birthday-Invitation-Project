@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>Birthday Invitation</title>
+    <link rel="stylesheet" href="stylesheet-A.css" type="text/css" />
   </head>
   <body>
     <h1>It's My Birthday!</h1>
