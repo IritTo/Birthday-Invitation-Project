@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Birthday Invitation</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1><a>It's My Birthday!</h1>  <!--Header1-->
+    <hr>
+    <p><strong>On the 12th May</strong></p> <!--p Paragraph-->
+     <!--img src (source) 
+    alt (alternative text) -->
+    <img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg"
+      alt="Birthday Cake"
+    />
+    <h2>What to bring:</h2>  <!--Header2-->
+    <ul>  <!--ul Unorder list-->
+      <!--li List item-->
+      <li>Balloons (I love balloons)</li>
+      <li>Cake (I'm really good at eating)</li>
+      <li>An appetite (There will be lots of food)</li>
+    </ul>
+
+    <h2>This is where you need to go:</h2>  <!--Header2-->
+    <p>
+      <!--p Paragraph-->
+      <!--Link
+    a click from one page to another
+    href -hypertext reference
+    "URL">Link Text  -->
+      <!--Strong-contents should be strongly emphasized -->
+      <a href="https://www.google.com/maps/place/%D7%94%D7%A8%D7%91+%D7%94%D7%A8%D7%A6%D7%95%D7%92,+%D7%91%D7%AA+%D7%99%D7%9D,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C%E2%80%AD/@32.024088,34.74874,17z/data=!3m1!4b1!4m6!3m5!1s0x1502b33f0222314b:0xe841edc055ad5b61!8m2!3d32.024088!4d34.74874!16s%2Fg%2F1ymvkn23z?entry=ttu"
+        >Google map link
+    </p>
+  </body>
+</html>
