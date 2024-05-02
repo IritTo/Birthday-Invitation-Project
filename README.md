@@ -22,4 +22,3 @@ To include the stylesheet in your HTML file, add the following link in the `<hea
 
 ```html
 <link rel="stylesheet" href="https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Stylesheet-A.css">
-
