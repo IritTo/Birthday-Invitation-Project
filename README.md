@@ -1,3 +1,6 @@
+Certainly! Here's the complete README with all the additions included:
+
+```markdown
 # Birthday Invitation Project
 
 This project is a simple birthday invitation webpage.
@@ -8,7 +11,9 @@ The webpage contains basic information about a birthday party, including the dat
 
 ## Preview
 
-![Birthday Invitation Preview](https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Birthday-Invitiaion.png)
+(https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Birthday-Invitiaion.png)
+
+```
 
 ## Usage
 
@@ -22,3 +27,16 @@ To include the stylesheet in your HTML file, add the following link in the `<hea
 
 ```html
 <link rel="stylesheet" href="https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Stylesheet-A.css">
+```
+
+## Credits
+
+- **Birthday Cake Emoji**: Obtained from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emojione_1F382.svg)
+
+[Click here to view the Birthday Invitation Project](https://iritto.github.io/Birthday-Invitation-Project/)
+
+
+Feel free to contribute or provide feedback!
+
+
+
