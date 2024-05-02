@@ -8,7 +8,7 @@ The webpage contains basic information about a birthday party, including the dat
 
 ## Preview
 
-![Birthday Invitation Preview](preview.png)
+![Birthday Invitation Preview](https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Birthday-Invitiaion.png)
 
 ## Usage
 
