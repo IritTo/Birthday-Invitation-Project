@@ -9,9 +9,6 @@ This project is a simple birthday invitation webpage.
 
 The webpage contains basic information about a birthday party, including the date, a description of what to bring, and a link to the party location on Google Maps.
 
-## Preview
-
-(https://github.com/IritTo/Birthday-Invitation-Project/raw/main/Birthday-Invitiaion.png)
 
 ```
 
